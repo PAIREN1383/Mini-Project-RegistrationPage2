@@ -1,2 +1,3 @@
 # Mini-Project-RegistrationPage2
-You can use this Registration page for your website.
+This mini-project is made by HTML and CSS.
+![This is an image](https://github.com/PAIREN1383/Mini-Project-RegistrationPage2/blob/main/Registration%20page1%20img.PNG)
